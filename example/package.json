@@ -1,0 +1,9 @@
+{
+    "author":"Akshaya",
+    "name":"example",
+    "version":"0.1.1",
+    "description": "censored words out of text",
+    "main": "censortext",
+    "dependencies": {},
+    "engines": {"node": "*"}
+}
